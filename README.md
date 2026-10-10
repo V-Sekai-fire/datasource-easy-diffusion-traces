@@ -12,4 +12,4 @@ The repository is data; there is nothing to build.
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
